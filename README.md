@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 Simulasi kerja tim pakai Git & GitHub<br>
-  🙋🏻‍♀️ Dikerjakan oleh: <strong>Aima</strong><br>
-  ✨ Dengan penuh semangat, ketekunan, dan sedikit music🎶
+     Dikerjakan oleh: <strong>Aima</strong><br>
+     Dengan penuh semangat, ketekunan, dan sedikit music🎶
 </p>
 
 ---
@@ -79,9 +79,9 @@ Awalnya memang bingung… tapi, kalau terus tekun dipelajari pasti ngerti ✨
 
 ## 🔗 Sumber Belajar
 
-- 📚 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- 🧩 [Learn Git Branching (Visual)](https://learngitbranching.js.org/)
-- 🛠️ [Git Handbook (GitHub)](https://docs.github.com/en/get-started)
+-  [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+-  [Learn Git Branching (Visual)](https://learngitbranching.js.org/)
+-  [Git Handbook (GitHub)](https://docs.github.com/en/get-started)
 
 ---
 
